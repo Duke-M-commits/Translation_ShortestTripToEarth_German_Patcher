@@ -1,0 +1,856 @@
+//folder= type=PlayMakerFSM
+Main quest FSM
+not used
+Tutorial gen
+FINISHED
+Destroy all doors
+Tutorial end
+Unlock SP33
+notice the Hostile fleet threat area, drive into it, Wait until battle is over
+advanced from POI
+tut battle done
+Wait until exit warp is done
+tut exit done
+State 2
+Red circles on starsystem maps are hostile fleet <b>threat areas</b>. Fleets have usually more than one ship, but this one is comprised of only a single automated ship, ready for our target practice. Attack it if you're ready as well.
+FINISH (to title)
+do tutorial continuation
+tut exit reached
+Just wait
+This starsystem has an <b>exit warpgate</b>. It allows travelling into the next space sector. Make sure you are in <b>starsystem view</b> and fly into it.
+Tutorial complete
+I understand, proceed to game
+ask to play tutorial
+im athena, and hotkeys are default only
+Door
+Tell to look at unscanned poi
+Sensor must touch to scan
+tut shipwreck reached
+Wait until "tut shipwreck 1" done
+Tell me more
+status messages 2
+OK
+Tell about modules and TAB and wait until player goes to starmap
+ship is empty shell
+Wait 2
+Install bridge
+Tell about crew
+Home
+Fuel
+Organics
+Explosives
+Exotics
+Synthetics
+Metals
+Credits
+Health
+Install fuel
+fuel +400
+Install org
+organics +450
+Install sensor
+Install more reactors
+Wait
+Install reactor 2
+status messages
+go to ship view
+Next
+pan, zoom, wasd
+Left click to select. Then right click to place it on ship
+loot modules
+Install engine
+Install exotic container
+Wait 3
+Fly near poi, then close in
+Wait until "tut shipwreck 1" reached
+Looks safe, now fly into it...
+Send extra crew to cryo
+Place new POI: warehouse
+go check out warehouse
+POIs
+tut warehouse reached
+Wait until "tut warehouse 2" done
+The wrecked ship also contained info about a hidden warehouse (it has been added to the starsystem map). Go and check that out.
+warpdirve allows jumping, put other modules into storage
+Goto sector map and warp
+tut shop reached
+Enable scrapping (don't open storage)
+Wait until warp done
+Open starsys view, go to shop
+warp button
+Install Test set
+Install Test set 2
+Entry question, normal planet
+no
+Give me full tutorial
+I just want to test a part of it
+tut shipwreck done
+Scrapping is possible, scrap artifacts
+sell all the exotics
+tut shop done
+weapons currently offline
+tut warehouse done
+buy & install container and shield
+shop resources
+FINISHEDFINISHED
+Tell to jump to next 2
+buy & install at least 3 weapons
+shop modules
+scrap resources for ammo
+Got it - weapons need ammo and power
+Wait 1
+Craft DIY weapon
+Wait 4
+Skip this step
+Upgrade to weapon slot
+Upgrade to weapon slot 2
+Click here to get resources for upgrade
+Enable slot upgrade and module craft
+give res
+new game
+tut cargo done
+level 1 seed
+//folder= type=ShipModule
+Exotic artifact
+A giant chunk of solidified exotic substances, contains 10 times more exotics than regularly foundable chunks. Can be scrapped to break into tradeable exotics.
+//folder= type=StringPool
+Chitindeva
+Click-click
+Purrbug
+Zwcxhrsr
+Zwcxhrsr
+Tiptap
+Cricks
+Crick
+Crackr
+Crickr
+Vrickr
+Krrt
+Chirp Chirp
+Chirpy
+Chirpyty-Chirp
+Crickety-Crick
+Bzwr
+Bzzwr
+Bzzzwr
+Bzzzzwr
+Aeon Flax
+Ripley Connors
+Richard Tworek
+Sigourney Weaver
+Eleanore Ripley
+Jessy Fine
+Danger Dave
+Arron Cromar
+John Smithy
+Emil Schwanke
+Elron Ember
+Lizette Taylory
+Sarah Connors jr
+John Rotschild
+Theresa Maybe jr
+Edwin Gardenland
+Hal Machinefriend
+Brad Pity
+Bombwald Dresden
+Tyan-Anmen Massac
+Daoxian Massac
+Nanking Massac
+Elaia Musk
+Kuo Min Tang
+Erik Sith
+Stanley Kubrick
+Denver Tamm
+Norris Catalonia
+Thomas Laserik
+Levar Lochmus
+Dave Equalman
+Brain Boar
+Jeffrey Scheffer
+Mike Owski
+Iane Banks jr
+Oswald Ockham
+Gabe Funky
+Bennie Lotman
+Jeromy Kush
+Eddie Silver
+Elroy Nova
+Maya More
+Elmo Kush
+Lesley Zig
+Sebastian Wixom
+Shaun Sativa
+Byron Schweitzer
+Alia Fairmind
+Shelby Welling
+Corine Wally
+Lesa Fetters
+Tora Glass
+Ben Seconds
+Kong Fleshman
+Martin Liedemann
+Maggie Lines
+Xanna Ruleson
+Obrienne Starfield
+Kevin Pollock
+Niels Vader
+Elane Mccarter
+Saturnia Bannister
+Elsa Einstein
+Saskia Goodwill
+Wolfmoon
+Animatio-N.Dud
+More-THE-N3
+MetalCanyon
+Nookrium
+Enter_Elysium
+Tortuga Power
+MouseGunner
+Cohh Carnage
+Duncan
+Little Warrior
+Little Purr-Engine
+Little Foodkiller
+Little Word-Destroyer
+Little Darklord
+Little Meowie-Pawie
+Little Ninja
+Little Roamer
+Little Survivor
+Little Bastard
+Little Nuke
+Little Graywhiskers
+Little Jonesy
+Little Bastard
+Little Bastard
+Scratti Patty
+Tasty Taily
+Rawy Pawy
+Seedlord Seedy
+Rattiken Catfear
+Swifter Drifter
+Leggy Lucky
+Nominom Supernose
+Cary Chewy
+Listy Listeny
+Squee Squeeky
+Welly Willy
+Eary Deary
+Hugo Huggy
+Harold Bitey
+Ferald Fury
+Swifty Drifty
+Lifty Laughty
+Darky Dusty
+Blacky Furry
+Blub
+Bleb
+Blab
+Blib
+Bläb
+Blöb
+Deathblip
+Deathblab
+Deathblöb
+Kachach
+Kachaff
+Kachang Awg
+Drippy
+Drippsh
+Sllp
+Sllps
+Zdippy
+Blippy
+Gippy
+Fwippy
+Dippy
+Mippy
+Nippy
+Rippy
+Sippylippy
+Bippy
+Lippy
+Whippy
+Hitty
+Gitty
+Kerwippy
+Xippy
+Biffyr
+Giffyr
+Siffyr
+Cappy
+Nappy
+Lappy
+Dappy
+Poppy
+Termy II
+Little Skynetty
+Fwmrr 69
+Meepo 444
+Limpo 49
+THX Type-4
+Deezy 11
+Beezy 229
+Beepy XX-900
+Sweety XY-900
+Spottywire 9000
+THC-3000
+CBD-9000
+Meepy 222
+Normal 9000
+Wirepaw 2
+Wiresoul 3
+Wireheart 4
+Smallbox
+Compli II
+Teepy II
+Acknow III
+Metalpho Machina
+Cobalt Heart
+Benz IV
+Chippy
+Servo 1
+Servo 2
+Remotia
+Adminny
+Ping 3000
+Flirty I
+Keepy IV
+//folder= type=StringPool
+Aphidae
+Truthio
+Zeus-Kartoffel
+Manio
+Aeonia
+Mar
+Xena
+Kohrar
+Attemptoria
+Memenia
+Maus
+Rogus
+Rattor
+Rattir
+Ratti
+Krati
+Sinceria
+Neony
+Polynia
+Pania
+Clearo
+Serenity
+Zoqfotty
+Vux
+Peacu
+Puh-Kus
+Lustio
+Sceptio
+Unio
+Egalito
+Cus
+Gentilo
+Mildee
+Admiratio
+Gulagim
+Oury
+Oda
+Thasa
+Onke
+Amaz
+Ragio
+Nu-Inter
+Deva
+Dewa
+Awaze
+Feauty
+Looport
+Du-Ru
+Ju-Hu
+Honoru
+Perfy
+Honora
+Conke
+Meel
+Promif
+Wisdu
+Wisdo
+Khaind
+New Cussia
+Doppelfaust
+Naeec
+Diogeneia
+Yifyz
+Furio
+Iota
+Iola
+Alcan
+Demus
+Lushe
+Zon
+Sechs
+Frendu
+Frenz
+Poesia
+Fae
+Melek
+Neo-Kohr
+Shend-Frip
+Sofaz
+Emby
+Lawi
+Kartoffelus
+Gentel
+Goos
+Minus
+Frensus
+Fremb
+Eezy
+Goot
+Bestio
+Daifu
+Finey
+Sisi
+Newtus
+Dawi
+Lawius
+Lavius
+Lawus
+Lov
+Horo-Kartoffel
+Lovi
+Sof
+Ponus
+Temos
+Laavi
+Levos
+Comos
+Lavi
+Neo-Kahlo
+Neo-Kartoffel
+Laos-Kartoffel
+Grainz
+Nutia
+Mind-Quan
+Wisd
+Ull-dew
+Laften
+Lacania
+Suppor
+Gama
+Lovde
+Lovre
+Lovil
+Caress
+Carinz
+Erra
+Erro
+Cogitos
+Neo-Silence
+Neo-Peace
+Holdia
+Aru
+Prometh
+Neo-Hyena
+Bene-Cura
+Bene-Volen
+Accep
+Stylo
+Neo-Styl
+Ganysus
+Kohr-Ahrg
+Neo-Ego
+Moaly
+Diox
+Ferva
+Feli
+Carus
+Bromer
+Lix
+Kem-Ra
+Ezah
+Nemera
+Donos
+Thaly
+Cegas
+Faas
+Hephamera
+Gelevia
+Arros
+Cyra
+Cara
+Caer
+Canea
+Ceros
+Ceras
+Canis
+Carea
+Caledion
+Caro
+Cafus
+Caidon
+Caneer
+Cera
+Ceron
+Ceronia
+Ceri
+Cae-Kartoffel
+Caenus
+Cannus
+Ean
+Storonk
+Stren
+Hephaos
+Merea
+Dexia
+Aphros
+Fuxia
+Fall
+Frinz
+Phaos
+Morduz
+Memis
+Aenes
+Cour
+Coura
+Merter
+Couri
+Couro
+Couran
+Courago
+Aetheria
+Luxee
+Eania
+Bolds
+Dexail
+Diogeneia
+Collo
+Lupia
+Xea
+Worko
+Wor
+Worg
+Worgs
+Goos
+Thumbi
+Huru
+Arghos
+Miidon
+Zon
+Eel-Esdee
+Tara
+Diner
+Freef
+Fremom
+Freimon
+Free-Domz
+Poseesio
+Freezon
+Reeson
+Minr
+Natufal
+Thanollo
+Hystus
+Labus
+Heatos
+CC-H-I
+Nus
+Pori
+Dioena
+Ponber
+Aera
+VV-Cc-I
+Erwy
+Ery
+Lados
+Apoes
+Venuf
+Cecury
+Nus
+Merysus
+Don
+Cenus
+Ponllo
+Neo-Bas
+Nepars
+Wides
+Arus
+Thaonos
+Thanollo
+Erlo
+Kel
+Depf
+Peyo
+Halle
+Jullo
+Atra
+Suppot
+Herp
+Voru
+Vea
+Erwy
+Jeidon
+Zers
+Zva
+Urus
+Apos
+Erter
+Apotarus
+Phonos
+Abstinon
+Meidon
+Hemter
+Atera
+Aphnos
+Ailcan
+Veher
+Apostus
+Miiter
+Wyr
+Chatos
+Juollo
+Erwynia
+Pofus
+Anke
+Ponion
+Zenon
+Erwylia
+Hesoi
+Ditus
+Neaia
+Gary
+Apoter
+Hora
+Hephoi
+Atune
+Athher
+Hetus
+Vulo
+Hypite
+Gary
+Vedite
+Os
+Hemes
+Nus
+Ossia
+Apos
+Ares
+Apomis
+Heses
+Ceres
+Nees
+Hemis
+Nelo
+Taros
+Isor
+Buru
+Nebu
+Luru
+Suru
+Uru
+Umera
+Minoi
+Ardite
+Ansus
+Hyus
+Erera
+Vetia
+Meer
+Merke
+Vuli
+Cerva
+Hello
+Dioatos
+Juus
+Apeus
+Dury
+Meranke
+Labassia
+Poia
+Poseus
+Leru
+Ouber
+Awky
+Chollo
+Thar
+Cora
+Veonos
+Aedite
+Hedon
+Gaiwan
+Kornos
+Apoos
+Ponlo
+Henus
+Merus
+Zior
+Vues
+Chaia
+Miru
+Alcan
+Lio
+Apion
+Gaos
+Kusu
+Junes
+Seany
+Mei
+Phaan
+Ner
+Zeos
+Apne
+Juna
+Aare
+Dionrs
+Anis
+Hana
+Heollo
+Mistia
+Erus
+Comass
+Vulmis
+Kafus
+Phatos
+Derfe
+Tarrea
+Vanos
+Atsoi-doi
+Dei-non
+Aphr
+Eruno
+Labu
+Aagia
+Kafo
+Hypina
+Dionoiz
+Vux
+Julo
+Chana
+Aifa
+Lazo
+Deera
+Nos
+Nomr
+Heros
+Ossu
+Mebus
+Aphry
+Lisus
+Posedite
+Vinus
+Gaos
+Zeres
+Mats
+Lee
+Gormia
+Goromia
+Heanke
+Demres
+Vea
+Porva
+Lebu
+Mineria
+Apors
+Demebus
+Dreamus
+Mier
+Neia
+Thanes
+Lentus-Benus
+Hemnos
+Aposus
+Heury
+Hes
+Lacanus
+Veratus
+Arara
+Verania
+Merla
+Mers
+Tuus
+Gara
+Ary
+Oufer
+Estus
+Apta
+Apheter
+Ceus
+Dionars
+Pononos
+Zeury
+Iora
+Mistus
+Ponestus
+Vulres
+Lidon
+Ragor
+Ieri
+Niera
+Vieras
+Loos
+Canaresia
+Ranesia
+Hex
+Namion
+Iosars
+Iorux
+Aesus
+Iominus
+Lingamr
+Ioni
+Zeos
+Merva
+Aeer
+Apa
+Los
+Gawa
+Festus
+Veo
+Mildy
+Eres
+Maes
+Cohania
+Guno
+Dinos
+Lupionia
+Hercio
+Borom
+Borion
+Benior
+//folder= type=Star
+Dwarf star
+Small star
+Middle-sized star
+Giant star
+Large star
+Black hole
+//folder= type=POI
+Tutorial start
+//folder= type=Ship
+The Exception
+Battle Tiger
+The Riggy
+Easy Tiger
+Tigerfish
+Nuke Runner
+Fierce Sincerity
+Rogue Rat
+Pumpkin Hammer
+Atlas
+Bluestar
+Warpshell
+The Endurance
+//folder= type=RandomizeCrewmember
+Khat
+Caz
+Neko
+Scully
+Pinky
+Shocky
+Grum
+Killy
+Atuine
+Bad Bitty
+Tiger Dog 9000
+Fire extinguisher drone
+//folder= type=Crewmember
+Smallbot

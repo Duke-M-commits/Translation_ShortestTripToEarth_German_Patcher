@@ -1,0 +1,177 @@
+//folder= type=-9
+Hello from the developers of Shortest Trip!\n\nVisit the Steam forums if you have questions, bugreports or just want to have a friendly discussion.\n\nIf you have enjoyed Shortest Trip, please support its continued development by mentioning it to your friends who might like it as well.\n\nWishing you a merry experience of <color=#761606>desperation & death,</color>\nInteractive Fate
+//folder= type=-78
+Add 1 cargo slot
+//folder= type=-85
+New feature: Ship module storage can be now upgraded for greater capacity
+Patch 7 (26.09.2019)
+50+ new events
+Latest updates:
+New feature: Crew Assignments.
+New captain log fragments in sector descriptions
+//folder= type=-84
+Credits
+//folder= type=-85
+Patch 6 (12.09.2019)
+New feature: crew experience at start of next level.
+New crew skill: sensors (boosts range of all ship sensor operated by the crewmember).
+Continued development
+Lots of UI & UX improvements
+Hotfix 1 (21.08.2019)
+Everything rebalanced in terms of difficulty, including ships, weapons, enemies etc
+Small content updates for 50+ events
+New power management view (hotkey "V")
+Read the complete changelog in the official Steam news announcement.
+Hotfix 4 (05.09.2019)
+Some new modules
+<b>DEVELOPEMENT</b>\n\n<b>INTERACTIVE FATE</b>\n\nGame design, Story, Production - Edvin Aedma\r\nCode - Toomas Laasik\r\nGraphics, sound design, additional music - Taavi Viikman\r\nEvent illustrations, additional graphics - Levar Lõhmus\r\nMusic - Martin Seiler\r\nMusic - Olli Oja\nSound effects, additional music - Ann Reimann\r\nTesting - Reio Pedak\r\nTesting - Siim Mutso\r\nTesting - Christopher Läll\r\nPrototyping assistance - Margus Luik\r\nAdditional sounds for prototype\r - Rasmus Lill\n\r\n\n\n<b>PUBLISHING</b>\n\n<b>ICEBERG INTERACTIVE</b>\n\nCEO - Erik Schreuder\r\nSales Director - Howard Newmark\r\nBusiness Development Director - Raymond Snippe\r\nProducer - Kevin Shuttleworth\r\nProducer - Bart Schouten\r\nAssociate Producer - Corine Jacobs\r\nHead of Marketing - Niels Kooijman\r\nSenior PR Manager - Chris Bond\r\nPR Manager - Nefeli Gkoni\r\nPR Manager - Orchidee Stachelig\r\nPR Manager - Mariëlle Salh\r\nPR Manager - Shona Fridh\r\nCommunity Manager - Saskia Schoonebeek\r\nProduction & Communication Assistant - Erik Daems\r\nPR Assistant - Jaap Guijt\r\nPR Assistant - Bassit Khan\r\nCommunication Assistant - Sabrina Nasr\r\nCommunication Assistant - Alex de Swart\r\nMarketing Assistant - Hakan Misir\r\nMarketing Assistant - Abdelilah Oulhadj\r\nFinancial Assistant - Esther van Putten\r\nArt Director - Michael van Zijl\n\n\n\n<b>QUALITY ASSURANCE</b>\n\n<b>GREENLINK GROUP</b>\n\nCEO - Costin Mihai\r\nStudio Manager – Mihai Vasile\r\nLead Tester – Andrei-Daniel Moroiu\r\nTester – Dragos Rusu\r\nTester – Gabriel Ocolescu\r\nTester – Gabriel Paraschiv\r\nTester – Matei Popescu\r\nHardware Specialist – Cosmin Mihai\r\nHardware Specialist – Tudor Trancau\n\n\n\n<b>BIG THANK YOU TO ALL THE BACKERS</b>\n\nCharles Gray\r\nMartin Kolman\r\nRóbert Kovács\r\nFredrik Holmqvist\r\nPeter Stubbe\r\nJordan Sipes\r\nWar StalkeR\r\nstarwolf\r\nUlterior Motive\r\nRichard Porter\r\nMax D\r\nBalazs Rubicsek\r\nBenjamin Meis\r\nJeff Schmidt\r\nAndrew Kennett\r\ndragonlichcz\r\nKalel Moodie\r\nJonathan Boyd\r\nngphenry\r\nSimon McLaughlin\r\nJames Farquharson\r\nMatt Gustavson\r\nKevin Anthony Malley\r\nAlin Olar\r\nMichal Konecny\r\nMichael Staudacher\r\nAlfred Saunders\r\njmiktutt\r\nJüri Suurväli\r\nBrandon Nichols\r\nDevin Jimenez\r\nEthan D Gardner\r\nJonathan Rudd\r\npeter.hebenstreit\r\nLawrence Laing\r\nHong Hang Ho\r\nsimo söödor\r\nDaniel Rozenberg\r\nRobert Ryan\r\nJohan Erlandsson\r\nJesper Dam\r\nace_slayn\r\nJoeAngel Miramontes\r\nOtt Metsla\r\nJürgen Haider\r\nRainer Jenning\r\nArnold Parzonka\r\nKonrad Parzonka\r\nRichard Kramer\r\nKay Are Ulvestad\r\nChristopher Wheelock\r\nBrendan Matthews\r\nDouglas Blatherwick\r\nAndrew Cockayne\r\nAndreas Halbwachs\r\nmfloyd01\r\nmatthew.grussing\r\nShahar Eldar\r\nMartins Cebers\r\nRobert Lucien Howe\r\nXiao Chuan Lim\r\nMartin Eomois\r\nJason Marvin\r\nSimon Green\r\nMartin Lodahl\r\nAllan Paiste\r\nj.boggiano\r\nkenneth slark\r\nRichard Seely\r\nBroccán Rónáin\r\nHenrik Norrgård\r\nGianluca Cappabianca\r\nA L\r\nMaximilian Göpfert\r\nsteve.haavik\r\nSteve Matthes\r\nJames Lee\r\nFreddie Aguilar\r\nCharles Nadeau\r\nArtur Michal Gadomski\r\nbluefire3261\r\nTimothy Hardin\r\nThomas Schwarzbraun\r\nKathleen Ericson\r\nJoseph Ghilardi\r\ngarfinkel\r\nJoel Nesbitt\r\nMarcin  Lewandowski\r\nashnjack64\r\nLyra Lane\r\nAlexander Minges\r\nwoernchen woernchen\r\nMichael Elliott\r\nAleksei Gusev\r\nBrian Swanson\r\nTodd Boutte\r\nDave Johnson\r\ndie_brotdose\r\nDaryl Manning\r\nMichael Reed\r\nGiovanni Gelio\r\nbesiix\r\nsven.radetzky\r\nsspecht\r\nwindraver\r\nPongrapee Jencharat\r\nDavid Hescox\r\nWilliam Cheek\r\nAndrew\r\nGary Theis\r\nRobin 'FFS Thargoids' Anthony\r\nJordan Emery\r\nAron Katz\r\nSam Marshallsay\r\nSimon Favreau-Lessard\r\nLuke Horne\r\nRoy Shelbourne\r\nHans Weeks\r\nGergely Buranszki\r\nMichał Weyer\r\nJoey Haas\r\nJames White\r\nHayes Ingraham\r\nmarc.wilkinson\r\nLeonard Jan\r\nRoger Yates\r\nChristian Lynaes\r\nJason Clarke\r\nXavier Dolci\r\nm071104\r\nToom Tragel\r\nFrançois MARCHAND\r\nmindexes\r\nMichał Korzeniewicz\r\nMark Wightman\r\nAndrew Smith\r\nHenrik Hermansen\r\nDrake Devine\r\nMartin Paroll\r\nJason Bigda\r\nSiim Mutso\r\nJens Wolgast\r\nMark Gould\r\nmark habrock\r\nSiim Viikman\r\nRene Pillesson\r\nMihkel Manguse\r\nAhti Tamm\r\nBob Widyanto\r\nDaren DiClaudio\r\nChristopher Baxter\r\nPatrick Swisher\r\nChristian Karlsson Malmström\r\nMark Leslie\r\nJoosep Jääger\r\ntc2122\r\nReio Pedak\r\nUlrik Werner\r\nMikk Pristavka\n\n& many more...\n\n\n\n<b>SPECIAL THANK YOU</b>\n\nKadri Ugand\r\nRiho Peterson\r\nMartin Oja\r\nMargus Luik\r\nTaavi Sööt\r\nTristan Rebane\r\nVeljo Hagu\r\nGameFounders \r\nFellow GameFounders participants\r\nFundwise & associated crowd-investors\r\nEmber Quality Services OÜ\r\nJon Hillman, for sharing an awesome track (Zero Gravity)\nEstonian Enterpreneurship University\r\nAPT Game Generator \nPlaytest Games & Marketing OÜ\r\nTulevik.EU\r\nLuminous OÜ\r\nSHUU Games OÜ\r\n
+//folder= type=-84
+This is a permanent perk. It locks on "Start game".
+//folder= type=-85
+New feature: lab modules that generate xenodata.
+Patch 5: New Achievements
+New feature: a variety of death texts at game end.
+Option to craft DIY modules & nukes in empty slots
+Read the full changelog in Steam.
+New human crewtype: the scientist (starts with high science skill).
+10+ new ships
+New enemy ships (found encountering smugglers and Solipsists).
+Hotfix 3 (28.08.2019)
+New feature: some pirates now fear nukes.
+New, easier game mode (read the game mode descriptions at new run start for details)
+30+ new perks
+Hotfix 2 (23.08.2019)
+Click anywhere to return to menu
+40+ new modules and nukes, including a variety of DIY nukes
+New feature: different module slots can be upgraded.
+After many good years of work, Shortest Trip launched in Autumn 2019, entering a new phase of continued development. We are able to keep adding content and expanding the game further thanks to your support.
+Reduced cost of converting explosives to fuel
+Added a new ship to Supporters DLC: The Riggy.
+Pirate queen has now slightly less hp.
+Improved feature: crew combat weapons can be now loaded mid-magazine and during walking
+Fixed an issue that locked doors remained locked after being destroyed.
+When a stale drag selection box is detected, it will be removed on next drag select.
+In challenging/hardcore difficulty: module max hp damage now happens less, in 10% cases instead of 15%
+Some nukes have more hitpoints
+Tigerfish and Nuke runner are now available only in challenging/hardcore difficulty
+Fixed builtin exotics converter slider step size
+Added 2 nuke slots to a small Slaver ship
+Patch 15 (09.04.2020)
+Balance updates:
+Fixed errors with saving and loading
+Removed after-early-access-progress-reset option from the game
+Reduced DIY fuel container crafting cost, and crafting it does not require fuel any more
+Added empty misc slots to Rogue Rat & Weirdship in place of old module storage
+Weapon slots can be now upgraded to core weapon slots, giving +1 ship HP
+It's now possible to save crew members to empty slots in quick selection bar, and change the order of guns
+Made most of the shield batteries better
+Made drones/humans a little faster
+Improved accuracy related issues with short reload time weapons
+Rebalanced the toughest enemy fleet in sector 1 (made it less dangerous)
+Point defences can be now given priority targets
+Pumpkin Hammer has now more intuitive module layout from start.
+Made anti-shield DIY nuke cheaper.
+Community localization now possible, read more from localization.tsv
+Balancing:
+Patch 12 (16.01.2020)
+<b>Major UX improvement:</b> Modules can be now loaded & saved together with power presets!
+Some hostile ships now send less intruders
+Removed glitchy anomaly from level 8.
+Most player ships have now better starting stats.
+Patch 9 (24.10.2019)
+New help page added "combat & economy presets".
+Pirate queen was removed from sector 2 and is now a potential enemy in sector 3
+Added a new easier game mode, changed others
+Patch 19 (25.11.2020)
+Made many containers better
+Tigerfish now has the ship-specific perk "explosives combinator"
+Made pirate queen ship a little weaker.
+All projectile weapon descriptions now say how many HP their projectiles have
+Tigerfish starts with slightly better resource & evasion bonus again
+Patch 20 (18.02.2021)
+Fix, fire is now visible in modded game content
+Reduced Rat EMP nuke aoe
+<b>Major UX improvement:</b> Total overhaul to ships built-in material convertor (which used to be only convert resources during excess).
+Ui tuneups
+UI improvement: Hovering resource leak warning on top of the screen now shows LEAK text directly on top of the leaking module
+Preparing for linux test build
+Improved and expanded modding options significantly
+Completing a level may now unlock both a ship and a perk
+Fierce Sincerity has a new cool starting weapon and +1 nuke slot.
+New content and features:
+Fierce Sincerity
+Dronebays and medbays can now heal more people simultaneously
+Made ECM jammers and artifacts better
+Increased capacity of fuel, synth and explosive packs.
+Gave all player ships new craftable nukes
+<b>Major UX improvement:</b> Total overhaul to modular materials convertors. They can be now accessed from special menu, may be used from storage, and do not require power.
+Fixed crew firefighting command not working properly
+Added localization loading through --localization= command line option.
+Made all integrity modules better.
+Updated level 9 ships
+Reduced cost of upgrading core slot to hybrid slot.\x20
+New features:
+DIY acid nuke does no longer need exotics to be crafted
+Duplicate key bindings are now colored red in Menu/Settings/Controls.
+Added new functionality: you can now mutliselect all crewmembers assigned to a job (for example select all firefighters or select all lab workers) with a single click\x20
+Shield overload doesn't overload all shield modules any more (one is overloaded for sure, others have a chance to be overloaded)
+All non-biotech reactors now also give explosives as scrap
+Added new DIY plastics nuke
+Improved the ECM value of some artifact modules.
+Fix, Perk randomizerMenuStrings can now be localized
+Fixed an issue that none of the 3 fate achievements could be achieved since version 1.1.19.
+Fixed an issue that evasion over 100 made enemy weapon super accurate.
+The Linux version is now available!
+Fixed stored modules not being counted in achievements (by changing how the storage module is hidden)
+Majority of cannons and gatling guns are now more accurate and consume less explosives
+Made medical cryosleep even better
+Help panel updates: Added "view sector" button template in warp help pages and updated doors help page
+Fixed trading options with new fleets in the Old Enemies DLC
+Multiple starting ships can be now unlocked during a single run
+Fixed 3 perks that didn't unlock properly
+Fixed a researchable beacon event with endless loop
+Patch 11 (14.11.2019)
+Fixed smaller issues on multiple ships
+Fixed zoom in and out keys
+Added new ship: Easy Tiger (along with new crew, exotic weapons, modules and ship-specific perks)
+Crew role change button now opens when hovered
+New perk for Tigerfish: explosives combinator
+Rebalanced 1 DIY reactor cost
+Added 10+ new weapons and modules.
+Patch 10 (29.10.2019)
+Patch 18 (05.11.2020)
+Multicrew selection can now be reverse sorted too
+Smugglers now offer more favorable deals
+Other:
+Completed the new DLC: The Old Enemies
+Patch 17 (05.10.2020)
+Added language dropdown to main menu page, for community translations.
+Fate bonuses after sectors will be given only after all level perks are unlocked
+Fixed an issue that caused W key to trigger random actions
+Swapped firefight and repair priorities for repair officers (should fix one navigation overload issue and repairing burning modules issue)
+Module max hitpoints may now get damaged (except in the beginner mode)
+<b>New feature:</b> Doors can be now repaired and show if they are damaged via UI
+<b>New feature:</b> Scoreboard vs Self
+Reduced amount of intruders for some enemy ships
+The Tigerfish starting moduleset and stats have been improved. It's now a better ship
+Made many cannons slower to reload but more accurate
+"Some extra sector lore/story is now visible between levels (used to be readable only from sector selection)"
+New "view system" button in sector view
+For adding a translation, see translations guide in Steam.\nTranslation template file can be found in Steam Workshop.
+<b>New content:</b> Added new enemy encounter (Queen of Pirates) to sector 2
+<b>Major UX improvement:</b> UI panels appear on top when clicked on, with few exceptions.
+Small updates to make some enemy fleets stronger, including those in Old Enemies DLC
+Patch 14 (06.04.2020)
+Patch 8 (23.10.2019)
+Patch 13 (12.02.2020)
+Most playable ships now start with more credits (420)
+Patch 16 (07.09.2020)
+Updated some easy tiger stats
+Greentail nuke avatar visual fix
+//folder= type=-84
+\rHello, we (developers) promise to keep developing this game after launch for months or years to come. Telling your friends about Shortest Trip is your best way to fuel this development.\r\n\r\nPlease be aware that Shortest Trip is a very detailed game and was designed to be played on bigger screens (23" monitor with full HD or better). This means that playing with a big screen ensures a very nice experience (everything has enough space on the screen) while playing on a small screen makes everything more difficult and stressful.\r\n\r\nWe've been working on Shortes Trip daily for many good years with a small and dedicated team. Your support is what drives us.\r\n\r\nThank you for existing,\r\ndevelopers of Shortest Trip\r
+[os] build [version]
+Scoreboard
+OPEN MATERIALS CONVERTORS
+//folder= type=-57
+Pause time
