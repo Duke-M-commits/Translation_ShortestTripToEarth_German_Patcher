@@ -249,9 +249,9 @@ Blab
 Blib
 Bläb
 Blöb
-Deathblip
-Deathblab
-Deathblöb
+Todesblip
+Todesblab
+Todesblöb
 Kachach
 Kachaff
 Kachang Awg
