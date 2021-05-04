@@ -1,7 +1,7 @@
 //folder= type=-9
 Hallo von den Entwicklern von Shortest Trip!\n\nBesuchen Sie die Steam-Foren, wenn Sie Fragen haben, Fehler melden oder einfach nur eine freundliche Diskussion führen möchten.\n\nWenn Ihnen Shortest Trip gefallen hat, unterstützen Sie bitte die weitere Entwicklung, indem Sie es Ihren Freunden empfehlen, die es ebenfalls mögen könnten.\n\nWir wünschen Ihnen eine fröhliche Erfahrung von <color=#761606>Verzweiflung & Tod,</color>\nInteractive Fate
 <color=#766060>Typ=-78
-1 Frachtraum-Steckplatz hinzufügen
+1 Frachtraumplatz
 //folder= type=-85
 Neues Feature: Schiffsmodulspeicher kann jetzt für größere Kapazität aufgerüstet werden
 Patch 7 (26.09.2019)
