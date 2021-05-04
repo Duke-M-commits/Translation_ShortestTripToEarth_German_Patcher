@@ -115,7 +115,7 @@ Exotic artifact
 A giant chunk of solidified exotic substances, contains 10 times more exotics than regularly foundable chunks. Can be scrapped to break into tradeable exotics.
 //folder= type=StringPool
 Chitindeva
-Click-click
+Klick-klick
 Purrbug
 Zwcxhrsr
 Zwcxhrsr
@@ -126,10 +126,10 @@ Crackr
 Crickr
 Vrickr
 Krrt
-Chirp Chirp
-Chirpy
-Chirpyty-Chirp
-Crickety-Crick
+Zwitscher Zwitscher
+Zwitscherer
+Zwitscherer-Zwitsch
+Rrenki-RenkRenk
 Bzwr
 Bzzwr
 Bzzzwr
@@ -197,16 +197,16 @@ Niels Vader
 Elane Mccarter
 Saturnia Bannister
 Elsa Einstein
-Saskia Goodwill
-Wolfmoon
+Saskia Willensgut
+Wolfmond
 Animatio-N.Dud
 More-THE-N3
 MetalCanyon
 Nookrium
 Enter_Elysium
-Tortuga Power
+Tortuga Kraft
 MouseGunner
-Cohh Carnage
+Cohh Blutbad
 Duncan
 Kleiner Krieger
 Kleiner Schnurrmotor
@@ -229,7 +229,7 @@ Raues Pfoti
 Seedlord Seedy
 Rattikan Katzenangst
 Rascher Rutscher
-Leggy Lucky
+Glückliches Beinchen
 Nominom Supernose
 Cary Chewy
 Listy Listeny
