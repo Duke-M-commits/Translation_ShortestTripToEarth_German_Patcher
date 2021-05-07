@@ -3,7 +3,9 @@ SET mod-dir=%cd%
 CD %mod-dir%\..\..\..\..\common\Shortest Trip to Earth\Data
 ECHO Reverting Game Data...
 IF EXIST "data.unity3d.backup" (
-  DEL "data.unity3d"
+  IF EXIST "data.unity3d" (
+    DEL "data.unity3d"
+  )
   RENAME data.unity3d.backup data.unity3d
 )
 ECHO Deleting patchfiles...
