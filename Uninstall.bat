@@ -16,7 +16,12 @@ ECHO Deleting even more patchfiles...
 IF EXIST "globalgamemanagers" (
   DEL "globalgamemanagers"
 )
-CD ..\AssetBundles
+CD Resources
+ECHO So much patchfiles to delete...
+IF EXIST "unity_builtin_extra" (
+  DEL "unity_builtin_extra"
+)
+CD ..\..\AssetBundles
 ECHO Reverting patched Base Game...
 IF EXIST "base.ab.backup" (
   DEL "base.ab"
