@@ -14,9 +14,6 @@ ECHO Deleting even more patchfiles...
 IF EXIST "globalgamemanagers" (
   DEL "globalgamemanagers"
 )
-IF EXIST "Resources\" (
-  RMDIR "Resources\" /s /q
-)
 CD ..\AssetBundles
 ECHO Reverting patched Base Game...
 IF EXIST "base.ab.backup" (
