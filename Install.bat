@@ -19,12 +19,12 @@ IF EXIST "common\" (
 )
 CD Shortest Trip to Earth\Data
 ECHO Exporting game data...
-"%patch-app%" exportbundle "data.unity3d" -p "%cd%" >nul
 IF EXIST "data.unity3d" (
   IF NOT EXIST "data.unity3d.backup" (
     RENAME "data.unity3d" "data.unity3d.backup"
   )
 )
+"%patch-app%" exportbundle "data.unity3d.backup" -p "%cd%" >nul
 ECHO Patching...
 FOR %%a IN (*.assets) DO "%patch-app%" import "%%a" -p "%patch-dir%" >nul
 ECHO More patching...
