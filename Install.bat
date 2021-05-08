@@ -2,7 +2,22 @@
 SET mod-dir=%cd%
 SET patch-dir=%cd%\Patch
 SET patch-app=%patch-dir%\UnityEX.exe
-CD %mod-dir%\..\..\..\..\common\Shortest Trip to Earth\Data
+ECHO Detecting version...
+CD %mod-dir%\..\..\..\..
+IF EXIST "common\" (
+  ECHO Steam version detected...
+  CD common
+) ELSE (
+  IF EXIST "Shortest Trip to Earth\" (
+    ECHO GOG version detected...
+  ) ELSE (
+    ECHO Could not find game directory...
+    ECHO Exiting...
+    TIMEOUT /t 8
+    EXIT
+  )
+)
+CD Shortest Trip to Earth\Data
 ECHO Exporting game data...
 "%patch-app%" exportbundle "data.unity3d" -p "%cd%" >nul
 IF EXIST "data.unity3d" (

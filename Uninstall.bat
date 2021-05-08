@@ -1,7 +1,22 @@
 @ECHO OFF
 SET mod-dir=%cd%
-CD %mod-dir%\..\..\..\..\common\Shortest Trip to Earth\Data
-ECHO Reverting Game Data...
+ECHO Detecting version...
+CD %mod-dir%\..\..\..\..
+IF EXIST "common\" (
+  ECHO Steam version detected...
+  CD common
+) ELSE (
+  IF EXIST "Shortest Trip to Earth\" (
+    ECHO GOG version detected...
+  ) ELSE (
+    ECHO Could not find game directory...
+    ECHO Exiting...
+    TIMEOUT /t 8
+    EXIT
+  )
+)
+CD Shortest Trip to Earth\Data
+ECHO Reverting game data...
 IF EXIST "data.unity3d.backup" (
   IF EXIST "data.unity3d" (
     DEL "data.unity3d"
