@@ -11,7 +11,7 @@ IF EXIST "UnityEX.exe" (
   EXIT
 )
 ECHO Version erkennen...
-CD %mod-dir%\..\..\..\..
+CD %mod-dir%\..\..\..\..\..
 IF EXIST "common\" (
   ECHO Steam Version erkannt...
   CD common
