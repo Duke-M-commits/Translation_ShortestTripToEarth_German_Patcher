@@ -1,7 +1,15 @@
 @ECHO OFF
 SET mod-dir=%cd%
 SET patch-dir=%cd%\Patch
-SET patch-app=%patch-dir%\UnityEX.exe
+CD %patch-dir%
+IF EXIST "UnityEX.exe" (
+  SET patch-app=%patch-dir%\UnityEX.exe
+) ELSE (
+  ECHO Looks like your Antivirus munched the patcher...
+  ECHO Exiting...
+  TIMEOUT /t 8
+  EXIT
+)
 ECHO Detecting version...
 CD %mod-dir%\..\..\..\..
 IF EXIST "common\" (
