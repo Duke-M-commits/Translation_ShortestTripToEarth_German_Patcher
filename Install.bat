@@ -1,9 +1,9 @@
 @ECHO OFF
 SET mod-dir=%cd%
-SET patch-dir=%cd%\Patch
+SET patch-dir=%mod-dir%\Patch
 CD %patch-dir%
 IF EXIST "UnityEX.exe" (
-  SET patch-app=%patch-dir%\UnityEX.exe
+  SET patch-app="%patch-dir%\UnityEX.exe"
 ) ELSE (
   ECHO Anscheinend hat dein Antivirus den Patcher gegessen...
   ECHO Ausstieg...
@@ -11,12 +11,12 @@ IF EXIST "UnityEX.exe" (
   EXIT
 )
 ECHO Version erkennen...
-CD %mod-dir%\..\..\..\..\..
+CD %mod-dir%\..\..\..\..
 IF EXIST "common\" (
   ECHO Steam Version erkannt...
   CD common
 ) ELSE (
-  IF EXIST "Shortest Trip to Earth\" (
+  IF EXIST "Games\Shortest Trip to Earth\" (
     ECHO GOG Version erkannt...
   ) ELSE (
     ECHO Konnte den Spiel-Ordner nicht finden...
