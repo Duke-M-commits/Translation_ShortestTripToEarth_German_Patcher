@@ -16,7 +16,7 @@ IF EXIST "common\" (
   ECHO Steam Version erkannt...
   CD common
 ) ELSE (
-  IF EXIST "Games\Shortest Trip to Earth\" (
+  IF EXIST "Games\" (
     ECHO GOG Version erkannt...
     CD Games
   ) ELSE (
