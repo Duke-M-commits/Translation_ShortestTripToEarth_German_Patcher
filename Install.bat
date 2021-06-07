@@ -61,5 +61,5 @@ IF EXIST "sdlc.ab" (
 )
 %patch-app% import "sdlc.ab" -mb_new -f %patch-dir% >nul
 CD %mod-dir%
-ECHO Done!
+ECHO Fertig!
 TIMEOUT /t 8

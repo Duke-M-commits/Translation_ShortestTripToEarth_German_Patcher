@@ -53,5 +53,5 @@ IF EXIST "sdlc.ab.backup" (
   RENAME "sdlc.ab.backup" "sdlc.ab"
 )
 CD %mod-dir%
-ECHO Done!
+ECHO Fertig!
 TIMEOUT /t 8
